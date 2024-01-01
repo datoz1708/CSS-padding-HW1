@@ -1,0 +1,17 @@
+.padding1 {
+    width: 550px;
+    height: 550px;
+    border: 1px solid #f00;
+    background-color: #f9dfdf;
+    padding-top: 71px;
+    padding-left: 91px;       
+}
+.paragraph1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
